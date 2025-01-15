@@ -24,7 +24,7 @@ class Animal {
 
 class Dog extends Animal {
   // YOUR CODE HERE
-  constructor (type) {
+  constructor () {
     super("dog");
   }
   speak() {
@@ -34,7 +34,7 @@ class Dog extends Animal {
 
 class Cat extends Animal {
   // YOUR CODE HERE
-  constructor (type) {
+  constructor () {
     super("cat");
   }
   speak() {
